@@ -1,0 +1,7 @@
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/CMakeFiles/Tutorial.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/CMakeFiles/edit_cache.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/CMakeFiles/rebuild_cache.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/alan/cmake-3.29.2-tutorial-source/Step4_build/MathFunctions/CMakeFiles/rebuild_cache.dir
